@@ -86,5 +86,5 @@ create_EQUAL_button.grid(row=5, column=5)
 create_backspace_button.grid(row=5, column=3)
 
 
-root.mainloop()
+
 
